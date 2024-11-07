@@ -32,7 +32,7 @@ I am currently a software Developer and a Computer engineering studentat Politec
   <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="pgAdmin"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-  <img src="![image](https://github.com/user-attachments/assets/ab96bd03-5ded-40fa-af3a-99774dc314b6)" alt="Docker"/>
+  <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png" alt="Docker"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
