@@ -44,6 +44,6 @@ I am currently a software Developer and a Computer engineering studentat Politec
 
 <br>
 
-[![@silvia-alejandra-olaya-forero](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) [![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) [![@https://mel-dev.site/](https://img.icons8.com/?size=100&id=60995&format=png "@https://mel-dev.site/")](https://mel-dev.site/) 
+[![@silvia-alejandra-olaya-forero](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) [![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) [![@https://mel-dev.site/](https://img.icons8.com/fluency/48/000000/internet.png "@https://mel-dev.site/")](https://mel-dev.site/) 
 
 <br>
