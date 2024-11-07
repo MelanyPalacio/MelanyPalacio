@@ -17,7 +17,16 @@ I am currently a software Developer and a Computer engineering studentat Politec
 
 🏡 Based in La Ceja (Ant), Colombia.
 
+## Contact Me ☕ :
+
+<br>
+
+[![@silvia-alejandra-olaya-forero](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) [![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) [![@https://mel-dev.site/](https://img.icons8.com/fluency/48/000000/internet.png "@https://mel-dev.site/")](https://mel-dev.site/) 
+
+<br>
+
 ## Main Technologies  👩🏻‍💻 :
+
 <br>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -37,13 +46,5 @@ I am currently a software Developer and a Computer engineering studentat Politec
   <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
   <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
 </div>
-
-<br>
-
-## Contact Me☕ :
-
-<br>
-
-[![@silvia-alejandra-olaya-forero](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) [![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) [![@https://mel-dev.site/](https://img.icons8.com/fluency/48/000000/internet.png "@https://mel-dev.site/")](https://mel-dev.site/) 
 
 <br>
