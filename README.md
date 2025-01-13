@@ -1,14 +1,15 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy Melany</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, i'm Melany Palacio</h1>
 
 ## About Me:
 
 I am currently a software Developer and a Computer engineering studentat Politecnico Colombiano Jaime Isaza Cadavid. I love engaging with the development community, learning, and discovering new things, This passion drives me to be part of PionerasDev and attend community events like MedellínCSS, CSSConfColombia, JSConfCO, and more.
 
-💻 Software Developer specialized in Frontend.
-📚 Computer Engineering student with a technical background in Information Systems Programming.
+💻 Software Developer specialized in Frontend.  📚 Computer Engineering student with a technical background in Information Systems Programming.
 
 · Dedicated to creating solid and sustainable architectures for complex systems.
+
 · Main technologies: Next.js, React, Tailwind, TypeScript, JavaScript, HTML, CSS, Node.js
+
 · Committed to innovation and collaboration in high-impact projects.
 
 ## Contact Me ☕ :
