@@ -4,18 +4,12 @@
 
 I am currently a software Developer and a Computer engineering studentat Politecnico Colombiano Jaime Isaza Cadavid. I love engaging with the development community, learning, and discovering new things, This passion drives me to be part of PionerasDev and attend community events like MedellínCSS, CSSConfColombia, JSConfCO, and more.
 
-
 💻 Software Developer specialized in Frontend.
-
 📚 Computer Engineering student with a technical background in Information Systems Programming.
 
-🌱 Dedicated to creating solid and sustainable architectures for complex systems.
-
-🌟 Main technologies: Next.js, React, Tailwind, TypeScript, JavaScript, HTML, CSS, Node.js
-
-😃 Committed to innovation and collaboration in high-impact projects.
-
-🏡 Based in La Ceja (Ant), Colombia.
+· Dedicated to creating solid and sustainable architectures for complex systems.
+· Main technologies: Next.js, React, Tailwind, TypeScript, JavaScript, HTML, CSS, Node.js
+· Committed to innovation and collaboration in high-impact projects.
 
 ## Contact Me ☕ :
 
