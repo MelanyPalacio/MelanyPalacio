@@ -16,7 +16,7 @@ I am currently a software Developer and a Computer engineering studentat Politec
 
 <br>
 
-[![@melanypalaciof](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) 
+[![@www.linkedin.com/in/melanypalaciof](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](www.linkedin.com/in/melanypalaciof) 
 [![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) 
 [![@https://mel-dev.site/](https://img.icons8.com/fluency/48/000000/internet.png "@https://mel-dev.site/")](https://mel-dev.site/) 
 
