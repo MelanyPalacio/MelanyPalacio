@@ -16,32 +16,28 @@ I am currently a software Developer and a Computer engineering studentat Politec
 
 <br>
 
-[![@https://linkedin.com/in/melanypalaciof](https://img.icons8.com/fluency/48/000000/linkedin.png "@melanypalaciof")](https://www.linkedin.com/in/melanypalaciof/) 
-[![@melanypalacio.mp@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@melanypalacio.mp@gmail.com")](melanypalacio.mp@gmail.com) 
-[![@https://mel-dev.site/](https://img.icons8.com/fluency/48/000000/internet.png "@https://mel-dev.site/")](https://mel-dev.site/) 
+<a href="https://linkedin.com/in/melanypalaciof" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://mel-dev.site/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/internet.png" width="32" height="32" /></a>
+<a href="melanypalacio.mp@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="32" height="32" /></a>
 
 <br>
 
 ## Main Technologies  👩🏻‍💻 :
 
 <br>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/office/48/000000/react.png" alt="React"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/>
-  <img src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
-  <img src="https://img.icons8.com/ios/48/000000/express-js.png" alt="Express"/>
-  <img src="https://img.icons8.com/color/48/000000/npm.png" alt="npm"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="pgAdmin"/>
-  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code"/>
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub"/>
-  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/>
-</div>
 
 <br>
